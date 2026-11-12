@@ -2,6 +2,6 @@
   "version": 1,
   "kind": "cli",
   "setup": [],
-  "verify": ["python3", "checks.py", "normal"],
+  "verify": ["python3", "checks.py", "design"],
   "demo": ["python3", "checks.py", "demo"]
 }
